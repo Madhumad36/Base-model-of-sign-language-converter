@@ -92,7 +92,7 @@ It also includes a **gesture learning module**, allowing users to visualize and 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/signlang-ai.git
+git clone "https://github.com/Madhumad36/Base-model-of-sign-language-converter"
 cd signlang-ai
 ---
 
