@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Indian Sign Language Assistant",
+  "description": "An advanced AI application designed to assist with sign language learning and communication. It features real-time conversation, image analysis, gesture generation, and a smart chatbot, all powered by various Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
