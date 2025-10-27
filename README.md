@@ -52,7 +52,7 @@ It also includes a **gesture learning module**, allowing users to visualize and 
 | **Speech Output** | gTTS / pyttsx3 |
 
 
-📂 PROJECT FILE STRUCTURE
+## 📂 PROJECT FILE STRUCTURE
 
 | File / Folder | Purpose |
 |----------------|----------|
@@ -64,7 +64,7 @@ It also includes a **gesture learning module**, allowing users to visualize and 
 | `requirements.txt` | Lists all Python dependencies. |
 | `README.md` | Project documentation. |
 
-📦DEPENDENCIES (requirements.txt)
+## 📦DEPENDENCIES (requirements.txt)
 | Library | Purpose |
 |----------|----------|
 | opencv-python | Capture webcam input and process frames. |
@@ -77,7 +77,7 @@ It also includes a **gesture learning module**, allowing users to visualize and 
 | gtts | Text-to-speech generation. |
 | pyttsx3 | Offline alternative for speech output. |
 
-🧱 MODEL WORKFLOW
+## 🧱 MODEL WORKFLOW
 | Step | Input | Process | Output |
 |------|--------|----------|---------|
 | 1 | Webcam Feed | Capture frames via OpenCV. | Image Frame |
@@ -88,6 +88,12 @@ It also includes a **gesture learning module**, allowing users to visualize and 
 
 
 
+## ⚙️ Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/signlang-ai.git
+cd signlang-ai
 ---
 
 
